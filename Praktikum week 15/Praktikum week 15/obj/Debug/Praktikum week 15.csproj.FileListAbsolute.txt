@@ -1,0 +1,11 @@
+C:\Users\Alexander Jason W\source\repos\Praktikum week 15\Praktikum week 15\bin\Debug\Praktikum week 15.exe.config
+C:\Users\Alexander Jason W\source\repos\Praktikum week 15\Praktikum week 15\bin\Debug\Praktikum week 15.exe
+C:\Users\Alexander Jason W\source\repos\Praktikum week 15\Praktikum week 15\bin\Debug\Praktikum week 15.pdb
+C:\Users\Alexander Jason W\source\repos\Praktikum week 15\Praktikum week 15\obj\Debug\Praktikum week 15.csprojAssemblyReference.cache
+C:\Users\Alexander Jason W\source\repos\Praktikum week 15\Praktikum week 15\obj\Debug\Praktikum_week_15.Form1.resources
+C:\Users\Alexander Jason W\source\repos\Praktikum week 15\Praktikum week 15\obj\Debug\Praktikum_week_15.Properties.Resources.resources
+C:\Users\Alexander Jason W\source\repos\Praktikum week 15\Praktikum week 15\obj\Debug\Praktikum week 15.csproj.GenerateResource.cache
+C:\Users\Alexander Jason W\source\repos\Praktikum week 15\Praktikum week 15\obj\Debug\Praktikum week 15.csproj.CoreCompileInputs.cache
+C:\Users\Alexander Jason W\source\repos\Praktikum week 15\Praktikum week 15\obj\Debug\Praktikum week 15.exe
+C:\Users\Alexander Jason W\source\repos\Praktikum week 15\Praktikum week 15\obj\Debug\Praktikum week 15.pdb
+C:\Users\Alexander Jason W\source\repos\Praktikum week 15\Praktikum week 15\obj\Debug\Praktikum_week_15.Form2.resources
